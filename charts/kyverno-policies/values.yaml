@@ -12,3 +12,4 @@ validationFailureAction: audit
 nameOverride:
 # -- Additional labels
 customLabels: {}
+namespace: kyverno
